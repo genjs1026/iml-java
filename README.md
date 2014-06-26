@@ -46,3 +46,9 @@ My recipes
           > Bake for about 10 minutes in the preheated oven, or until edges are 
             nicely browned.
 ```
+
+IML syntax is described in the README file of the IML project : 
+https://github.com/lchaboud/iml/blob/master/SYNTAX.md
+
+You can see a comparison between IML and YAML and JSON here :
+https://github.com/lchaboud/iml/blob/master/SAMPLE.md
