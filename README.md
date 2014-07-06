@@ -3,6 +3,10 @@ iml-java
 
 IML - Indentation Markup Language - Java Parser
 
+Forum
+---
+Give your opinion about IML on the forum: http://628906.xobor.com/f3-IML.html
+
 What is IML ?
 ===
 
